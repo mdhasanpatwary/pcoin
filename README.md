@@ -1,7 +1,7 @@
 # pcoin
 ### Writing a tiny blockchain in JavaScript.
 
-Inspired by: Simply Explained - Savjee
+#### Inspired by: Simply Explained - Savjee
 
 Main Video & Text Tutorial Link: https://savjee.be/2017/07/Writing-tiny-blockchain-in-JavaScript/
 
