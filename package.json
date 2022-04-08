@@ -1,0 +1,13 @@
+{
+  "name": "pcoin",
+  "version": "1.0.0",
+  "description": "blockchain learning project",
+  "main": "index.js",
+  "repository": "#",
+  "author": "patwary",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4"
+  }
+}
